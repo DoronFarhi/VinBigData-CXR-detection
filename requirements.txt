@@ -1,0 +1,16 @@
+# Kaggle GPU image already provides torch, torchvision, timm, albumentations, opencv, scikit-learn, pandas
+torch
+torchvision
+timm
+albumentations
+opencv-python
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+pydicom
+joblib
+ultralytics
+ensemble-boxes
+iterative-stratification

@@ -1,0 +1,11 @@
+# data and model outputs are not part of the repository
+*.png
+!assets/*.png
+*.csv
+*.pt
+*.pth
+*.dcm
+yolo_runs/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
